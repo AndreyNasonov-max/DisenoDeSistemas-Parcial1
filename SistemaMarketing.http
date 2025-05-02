@@ -1,0 +1,6 @@
+@SistemaMarketing_HostAddress = http://localhost:5008
+
+GET {{SistemaMarketing_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
